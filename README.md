@@ -65,3 +65,4 @@ npm run build
 
 
 
+<img width="1841" height="747" alt="homepage" src="https://github.com/user-attachments/assets/4f237c76-7f3f-40e7-bb08-46298fe72a46" />
